@@ -1,7 +1,7 @@
 # Personal_Resume
 using HTML,CSS,JavaScript  creat my personal resume
 
-Website Link:-http://www.resumetemp.com
+Website Link:-https://kc-resumes.netlify.app
 
 
 Output:
